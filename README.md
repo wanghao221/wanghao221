@@ -1,4 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanghao221)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanghao221&count_private=true)
+
 
 
 我不是什么大牛，我想做的其实就是一个传播者。内容可能过于基础，但对于刚入门的人来说或许是一个窗口，一个解惑之窗。我要先坚持分享20年，大家来一起见证吧。
