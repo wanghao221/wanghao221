@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanghao221)](https://github.com/anuraghazra/github-readme-stats)
+
+
 我不是什么大牛，我想做的其实就是一个传播者。内容可能过于基础，但对于刚入门的人来说或许是一个窗口，一个解惑之窗。我要先坚持分享20年，大家来一起见证吧。
 
 每年至少会分享不少于`200篇`的优质文章，如果想第一时间获取文章，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#公众号)提意见(别忘记**Star**哟)。最近还开了一个店铺[【致知店铺】](#致知店铺)
