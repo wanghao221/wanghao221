@@ -1,6 +1,3 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanghao221&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghao221&layout=compact)
 ![](https://komarev.com/ghpvc/?username=wanghao221)
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
@@ -31,15 +28,12 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=wanghao221&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wanghao221&theme=radical">
- <!--
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-98&hide=css,java,html&theme=radical">
--->
 </p>
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghao221&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Samridhi-98&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=wanghao221&theme=redical">
 </p>
 
 
