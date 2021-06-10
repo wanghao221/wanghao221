@@ -1,6 +1,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanghao221&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghao221&layout=compact)](https://gitee.com/haiyongcsdn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghao221&layout=compact)](https://github.com/wanghao221/)
 
 
 
