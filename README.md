@@ -15,7 +15,7 @@
 
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -28,13 +28,14 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=wanghao221&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wanghao221&theme=radical">
 </p>
-<p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghao221&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+ 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=wanghao221&theme=redical">
 </p>
 
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghao221&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
 
 
 我不是什么大牛，我想做的其实就是一个传播者。内容可能过于基础，但对于刚入门的人来说或许是一个窗口，一个解惑之窗。我要先坚持分享20年，大家来一起见证吧。
