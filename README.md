@@ -29,14 +29,14 @@
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Samridhi-98&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-98&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=wanghao221&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wanghao221&theme=radical">
  <!--
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samridhi-98&hide=css,java,html&theme=radical">
 -->
 </p>
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samridhi-98&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghao221&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Samridhi-98&theme=redical">
