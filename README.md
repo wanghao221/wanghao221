@@ -1,6 +1,7 @@
-![](https://komarev.com/ghpvc/?username=wanghao221)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanghao221&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghao221&layout=compact)](https://github.com/wanghao221/)
+![](https://komarev.com/ghpvc/?username=wanghao221)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghao221&layout=compact)
 
 
 
