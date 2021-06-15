@@ -74,10 +74,10 @@
 
 # 学习路线
 ## HTML&CSS学习路线
-<p align="center"><img src="images/HTML_CSS.jpg" width="300" /></p>
+<p align="center"><img src="images/HTML_CSS.jpg"/></p>
 
 ## JavaScript学习路线
-<p align="center"><img src="images/Javascript.jpg" width="300" /></p>
+<p align="center"><img src="images/Javascript.jpg"/></p>
 
 
 # 目录(善用Ctrl+F)
