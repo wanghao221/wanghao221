@@ -72,6 +72,12 @@
 100个最常问的JavaScript面试问答-第4部分:https://juejin.cn/post/6955458822592954381
 
 
+# 学习路线
+## HTML&CSS学习路线
+<p align="center"><img src="images/HTML_CSS.jpg" width="300" /></p>
+
+## JavaScript学习路线
+<p align="center"><img src="images/Javascript.jpg" width="300" /></p>
 
 
 # 目录(善用Ctrl+F)
