@@ -323,4 +323,4 @@
 
 微信搜索 **[啦啦啦好想biu点什么]** ，第一时间阅读或者扫描下方的二维码。
 
-<p align="center"><img src="images/0.png" width="300" /><img src="images/0.jpg" width="300" /></p>
+<p align="center"><img src="images/gongzhonghao300.png" width="300" /><img src="images/0.jpg" width="300" /></p>
