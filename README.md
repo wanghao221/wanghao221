@@ -81,20 +81,11 @@
 <p align="center">
 <a href="https://haiyong.site/">个人网站</a> | <a href="https://haiyong.blog.csdn.net/">CSDN</a> | <a href="https://juejin.cn/user/2040341402229751">掘金</a> | <a href="https://bbs.huaweicloud.com/community/usersnew/id_1628036118897599">华为云</a> | <a href="https://cloud.tencent.com/developer/user/8932508">腾讯云</a> 
 </p>
-<img src="https://img-blog.csdnimg.cn/07d5c80f7ae44ca7b8d441cc0c19943f.png#pic_center%E2%80%9D" alt="24f68488c86f4984889ee65cd392ce6a.png#pic_center%E2%80%9D" /><p align="center">
+<p align="center">
+<img src="https://img-blog.csdnimg.cn/07d5c80f7ae44ca7b8d441cc0c19943f.png#pic_center%E2%80%9D" alt="24f68488c86f4984889ee65cd392ce6a.png#pic_center%E2%80%9D" />
 </p>
 <p align="center"><a href="https://www.captainai.net/haiyong"><font color="#03a9f4"><b><u>人工智能学习</u></b></font></a></p>
-<p align="center"><a href="http://haiyong.site/choujiang"><font color="#F08080"><b><u>粉丝抽奖点这里，查看近期抽奖记录</u></b></font></a></p>
-<center><b> <font color="#FF0000">★</font> <font color="#FF7F00">大佬友链</font> <font color="#FF0000">☆</font> </b></center>
-<center> <b><a href="https://blog.csdn.net/m0_50546016/"> <font color="#8470FF">Lucifer三思而后行</font></a></b></center>
-<center> <b><a href="http://haiyong.site"> <font color="#8470FF">haiyong 海拥</font></a></b></center>
-<center> <b><a href="https://www.captainai.net/haiyong"><font color="#8470FF">人工智能</font></a></b></center>
-
-
-
-
-
-​    
+<p align="center"><a href="http://haiyong.site/choujiang"><font color="#F08080"><b><u>粉丝抽奖点这里，查看近期抽奖记录</u></b></font></a></p> 
 
 # 学习路线
 ## HTML和CSS以及DOM交互学习路线
