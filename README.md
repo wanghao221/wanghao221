@@ -14,56 +14,7 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-<p align="center">
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-
-
-<p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-</p>
-
-
- 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=wanghao221&theme=redical">
-</p>
-
-<p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghao221&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p>
-
-
-个人简介：CSDN原力计划作者，掘金优秀作者，资讯创作者，公众号【海拥】，全网粉丝12万+。我是一个爱好计算机科学，求索于逻辑思维的同时不忘哲学和浪漫主义科学，乐于分享技术与快乐的博主。博文内容涉及Java，Python，HTML/CSS/JS及SEO，数据结构等。
-
-
-
-<marquee><b><font color="#e66b6d">双</font>
-				<font color="#e66d98">手</font>
-				<font color="#e66cc6">合</font>
-				<font color="#cc6de6">十</font>
-				<font color="#9770e6">成</font>
-				<font color="#6d93e6">为</font>
-				<font color="#6fcde6">自</font>
-				<font color="#72e6b6">己</font>
-				<font color="#72e689">的</font>
-				<font color="#99e670">神</font>, 
-				<font color="#cde670">自</font>
-				<font color="#e6df72">己</font>
-				<font color="#e6c073">所</font>
-				<font color="#e6a271">信</font>
-				<font color="#e6796f">念</font>
-				<font color="#e65454">的</font>
-				<font color="#e63333">即</font>
-				<font color="#e62c2c">是</font>
-				<font color="#e60101">信</font>
-				<font color="#e60101">仰</font></b> 
-</marquee><div class="badge-links" style="text-align: center; margin-top: 20px;">
+<div class="badge-links" style="text-align: center; margin-top: 20px;">
     <a href="https://blog.haiyong.site/img/qrcode/weixin.png" target="_blank">
         <img src="https://img.shields.io/badge/%E7%AB%99%E9%95%BF%E5%BE%AE%E4%BF%A1-wh18363-6513df?style=flat&logo=Claris" alt="站长微信">
     </a>
@@ -93,3 +44,27 @@
     </a>
 </div>
 </p>
+<p align="center">
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+</p>
+
+
+ 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=wanghao221&theme=redical">
+</p>
+
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghao221&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
+
