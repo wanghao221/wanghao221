@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-<div class="badge-links" style="text-align: center; margin-top: 20px;">
+<p align="center">
     <a href="https://blog.haiyong.site/" target="_blank">
         <img src="https://img.shields.io/badge/blog-%E6%B5%B7%E6%8B%A5%E5%8D%9A%E5%AE%A2-d42328?style=flat&logo=bitdefender" alt="海拥个人博客">
     </a>
@@ -39,8 +39,7 @@
     <a href="https://space.bilibili.com/63551025" target="_blank">
         <img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-ff69b4" alt="哔哩哔哩">
     </a>
-</div>
-
+</p>
 <p align="center">
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 </p>
