@@ -63,21 +63,33 @@
 				<font color="#e62c2c">是</font>
 				<font color="#e60101">信</font>
 				<font color="#e60101">仰</font></b> 
-</marquee><p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p><p align="center">
-  <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" alt="%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" /></a>
-  <a href="https://juejin.cn/user/2040341402229751/"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="掘金" /></a>
-  <a href="https://space.bilibili.com/63551025"><img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-critical" alt="哔哩哔哩" /></a>
-<a href="https://bbs.huaweicloud.com/community/usersnew/id_1628036118897599"><img src="https://img.shields.io/badge/%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%A4%BE%E5%8C%BA-%E6%B5%B7%E6%8B%A5-ff69b4" alt="%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%A4%BE%E5%8C%BA-%E6%B5%B7%E6%8B%A5-ff69b4" /></a>
-  <a href="https://bbs.csdn.net/forums/moyu"><img src="https://img.shields.io/badge/CSDN-%E6%91%B8%E9%B1%BC%E7%A4%BE%E5%8C%BA-yellow" alt="CSDN-%E6%91%B8%E9%B1%BC%E7%A4%BE%E5%8C%BA-yellow" /></a>
-<a href="https://github.com/wanghao221/"><img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg" alt="GitHub" /></a>
-<a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
+</marquee><div class="badge-links" style="text-align: center; margin-top: 20px;">
+    <a href="https://blog.haiyong.site/img/qrcode/weixin.png" target="_blank">
+        <img src="https://img.shields.io/badge/%E7%AB%99%E9%95%BF%E5%BE%AE%E4%BF%A1-wh18363-6513df?style=flat&logo=Claris" alt="站长微信">
+    </a>
+    <a href="https://blog.haiyong.site/" target="_blank">
+        <img src="https://img.shields.io/badge/blog-%E6%B5%B7%E6%8B%A5%E5%8D%9A%E5%AE%A2-d42328?style=flat&logo=bitdefender" alt="海拥个人博客">
+    </a>
+    <a href="https://game.haiyong.site/" target="_blank">
+        <img src="https://img.shields.io/badge/game-海拥游戏-yellow.svg" alt="1500+网页游戏">
+    </a>
+    <a href="https://code.haiyong.site" target="_blank">
+        <img src="https://img.shields.io/badge/code-%E6%B5%B7%E6%8B%A5%E8%B5%84%E6%BA%90%E5%BA%93-black.svg" alt="本站项目由海拥资源库托管">
+    </a>
+    <a href="https://nav.haiyong.site" target="_blank">
+        <img src="https://img.shields.io/badge/nav-%E6%B5%B7%E6%8B%A5%E5%AF%BC%E8%88%AA%E7%BD%91-green.svg" alt="海拥导航，1600+网址">
+    </a>
+    <a href="https://tools.haiyong.site/" target="_blank">
+        <img src="https://img.shields.io/badge/tools-海拥工具大全-orange?style=flat&logo=jsDelivr" alt="一站式轻松构建小程序、Web网站、移动应用">
+    </a>    
+    <a href="https://haiyong.blog.csdn.net/" target="_blank">
+        <img src="https://img.shields.io/badge/csdn-CSDN-critical" alt="CSDN">
+    </a>
+    <a href="https://juejin.cn/user/2040341402229751" target="_blank">
+        <img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="掘金">
+    </a>
+    <a href="https://space.bilibili.com/63551025" target="_blank">
+        <img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-ff69b4" alt="哔哩哔哩">
+    </a>
+</div>
 </p>
-
-加我个人微信回复 **"加群"** 或者关注公众号，并进入公众号 **[进群]** ，添加好友即可。 公众号也会经常分享一些干货。
-
-微信搜索 **[海拥]** ，第一时间阅读或者扫描下方的二维码。
-
-<p align="center"><img src="images/gongzhonghao300.png" width="300" /><img src="images/0.jpg" width="300" /></p>
-
-## Java学习路线
-<p align="center"><img src="images/Java.png"/></p>
