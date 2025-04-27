@@ -15,9 +15,6 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 <div class="badge-links" style="text-align: center; margin-top: 20px;">
-    <a href="https://blog.haiyong.site/img/qrcode/weixin.png" target="_blank">
-        <img src="https://img.shields.io/badge/%E7%AB%99%E9%95%BF%E5%BE%AE%E4%BF%A1-wh18363-6513df?style=flat&logo=Claris" alt="站长微信">
-    </a>
     <a href="https://blog.haiyong.site/" target="_blank">
         <img src="https://img.shields.io/badge/blog-%E6%B5%B7%E6%8B%A5%E5%8D%9A%E5%AE%A2-d42328?style=flat&logo=bitdefender" alt="海拥个人博客">
     </a>
